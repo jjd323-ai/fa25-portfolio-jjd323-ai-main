@@ -8,12 +8,14 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [jjd323@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Currently pursuing an engineering degree at Cornell University, contributing to the Cornell Rocketry Team as a Structures Subteam Member. Core responsibilities include designing a thermally regulated fill station controller using SolidWorks and thermodynamics calculations, while collaborating with the electrical sub-team to align with design specifications. Key competencies include computer-aided design (CAD), project management, and thermal systems analysis.  
+
+Previous experience with Engineers in Action involved managing construction schedules, safety checks, and materials planning for a student suspension bridge project. Supported the team in overcoming logistical challenges while fostering collaboration among diverse stakeholders. Motivated to bring meticulous design expertise and a problem-solving mindset to projects, while championing cross-functional teamwork and innovation in engineering solutions.
 
 ---
 
