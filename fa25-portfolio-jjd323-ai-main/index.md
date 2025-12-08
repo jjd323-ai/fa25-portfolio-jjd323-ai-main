@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Joey D'Arcangelo>
+title: <Joseph D'Arcangelo>
 ---
 
 ## About Me
